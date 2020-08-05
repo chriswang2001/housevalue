@@ -76,3 +76,5 @@
 
 ## 房价预测结果
 ![housevalue result](https://raw.githubusercontent.com/chriswang2001/housevalue/master/result.png)
+
+说明：matlab所创建的BP神经网络初始权值是随机赋值，所以每次运行的结果都不相同，可选取测试结果最好的一组进行预测。
